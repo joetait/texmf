@@ -148,23 +148,23 @@
                 {UNIVERSITY OF SOUTHAMPTON}}
                 {UNIVERSITY OF SOUTHAMPTON}}
 \department  {\texorpdfstring{\href{http://www.ecs.soton.ac.uk}
-                {School of Electronics and Computer Science}}
-                {School of Electronics and Computer Science}}
+                {School of Mathematics}}
+                {School of Mathematics}}
 \DEPARTMENT  {\texorpdfstring{\href{http://www.ecs.soton.ac.uk}
-                {SCHOOL OF ELECTRONICS AND COMPUTER SCIENCE}}
-                {SCHOOL OF ELECTRONICS AND COMPUTER SCIENCE}}
+                {SCHOOL OF MATHEMATICS}}
+                {SCHOOL OF MATHEMATICS}}
 \group       {\texorpdfstring{\href{http://www.isis.ecs.soton.ac.uk}
-                {Image, Speech and Intelligent Systems Group}}
-                {Image, Speech and Intelligent Systems Group}}
+                {Pure Mathematics}}
+                {Pure Mathematics}}
 \GROUP       {\texorpdfstring{\href{http://www.isis.ecs.soton.ac.uk}
-                {IMAGE, SPEECH AND INTELLIGENT SYSTEMS GROUP}}
-                {IMAGE, SPEECH AND INTELLIGENT SYSTEMS GROUP}}
+                {PURE MATHEMATICS}}
+                {PURE MATHEMATICS}}
 \faculty     {\texorpdfstring{\href{http://www.engineering.soton.ac.uk}
-                {Faculty of Engineering, Science and Mathematics}}
-                {Faculty of Engineering, Science and Mathematics}}
+                {Faculty of Social and Human Sciences}}
+                {Faculty of Social and Human Sciences}}
 \FACULTY     {\texorpdfstring{\href{http://www.engineering.soton.ac.uk}
-                {FACULTY OF ENGINEERING, SCIENCE AND MATHEMATICS}}
-                {FACULTY OF ENGINEERING, SCIENCE AND MATHEMATICS}}
+                {FACULTY OF SOCIAL AND HUMAN SCIENCES}}
+                {FACULTY OF SOCIAL AND HUMAN SCIENCES}}
 \addresses   {}
 \subject     {}
 \keywords    {}
