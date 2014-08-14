@@ -148,11 +148,11 @@
                 {UNIVERSITY OF SOUTHAMPTON}}
                 {UNIVERSITY OF SOUTHAMPTON}}
 \department  {\texorpdfstring{\href{http://www.ecs.soton.ac.uk}
-                {School of Mathematics}}
-                {School of Mathematics}}
+                {Mathematical Sciences}}
+                {Mathematical Sciences}}
 \DEPARTMENT  {\texorpdfstring{\href{http://www.ecs.soton.ac.uk}
-                {SCHOOL OF MATHEMATICS}}
-                {SCHOOL OF MATHEMATICS}}
+                {MATHEMATICAL SCIENCES}}
+                {MATHEMATICAL SCIENCES}}
 \group       {\texorpdfstring{\href{http://www.isis.ecs.soton.ac.uk}
                 {Pure Mathematics}}
                 {Pure Mathematics}}
