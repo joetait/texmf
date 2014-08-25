@@ -185,6 +185,10 @@
     \begin{center}
       \setlength{\parskip}{0pt}
       {\large\textbf{\UNIVNAME}\par}
+      \bigskip
+      \bigskip
+      {\large \facname \par}
+      {\large \deptname \par}
       \vfill
       {\huge \bf \@title \par}
       \vfill
@@ -196,9 +200,6 @@
       {\large degree of Doctor of Philosophy \par}
       \bigskip
       \bigskip
-      {\large in the \par}
-      {\large \facname \par}
-      {\large \deptname \par}
       \bigskip
       \bigskip
       \bigskip
