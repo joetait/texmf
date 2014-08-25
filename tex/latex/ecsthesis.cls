@@ -239,7 +239,7 @@
     \bigskip
     {\normalsize \underline{Doctor of Philosophy}\par}
     \bigskip
-    {\normalsize\bf \@title \par}
+    {\normalsize\bf Group actions on differentials of curves and cohomology bases of hyperelliptic curves \par}
     \medskip
     {\normalsize by \authornames \par}
     \bigskip
